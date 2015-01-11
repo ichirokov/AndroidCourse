@@ -8,6 +8,8 @@ See https://java.com/en/download/help/mac_install.xml.
 
 And JDK:
  http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+ 
+ Check version from Terminal: Javac -version, related JDK
 
 #####Getting Android:
 
