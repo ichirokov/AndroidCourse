@@ -1,6 +1,10 @@
 ####Android with Eclipse.
 
+For 1 week:
+usefull link :https://docs.google.com/document/d/1Sp8Ul9x7FO5ad6z7ac7srvM0ga9VBS2149uTyCOut7g/edit?usp=sharing
+
 #####For  MAC computer.
+
 
 Before download Eclipse we need to have JVM on your computer:
 
