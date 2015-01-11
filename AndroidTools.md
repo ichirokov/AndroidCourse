@@ -23,3 +23,5 @@ Click  Eclipse Downloads Page. - http://www.eclipse.org/downloads
 
 3.Click Eclipse IDE for Java Developers, 153 MB - http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/luna/SR1/eclipse-java-luna-SR1-macosx-cocoa-x86_64.tar.gz
 
+4. After start Eclipse see: Download the ADT Plugin
+see plgin : https://dl-ssl.google.com/android/eclipse/
