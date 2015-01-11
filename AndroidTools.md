@@ -6,7 +6,8 @@ Before download Eclipse we need to have JVM on your computer:
 
 See https://java.com/en/download/help/mac_install.xml. 
 
-Getting Android:
+#####Getting Android:
+
 See http://developer.android.com/sdk/installing/installing-adt.html
 
 1.click on Eclipse 3.7.2 (Indigo) or greater - http://eclipse.org/mobile/
