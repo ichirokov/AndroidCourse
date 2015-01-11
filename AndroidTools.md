@@ -33,3 +33,5 @@ see plgin : https://dl-ssl.google.com/android/eclipse/
   On that version Developer option by default is hiden , we need to start it: Settings > About device > Build     number.
   Now we are on Development mode.
 
+6. From Eclipse Menu: Run:Run Configuration..:Target:Launch on all compatible devices/AVD's: and select: Active devices and AVD's, then apply and run.
+
