@@ -27,3 +27,9 @@ Click  Eclipse Downloads Page. - http://www.eclipse.org/downloads
 
 4. After start Eclipse see: Download the ADT Plugin
 see plgin : https://dl-ssl.google.com/android/eclipse/
+
+5. Android Device.
+  Open Device, go setting : General: About device:Android version: 4.4.2
+  On that version Developer option by default is hiden , we need to start it: Settings > About device > Build     number.
+  Now we are on Development mode.
+
