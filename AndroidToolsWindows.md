@@ -3,7 +3,7 @@
 For 1 week:
 usefull link :https://docs.google.com/document/d/1Sp8Ul9x7FO5ad6z7ac7srvM0ga9VBS2149uTyCOut7g/edit?usp=sharing
 
-#####For  MAC computer.
+#####For  Windows computer.
 
 
 Before download Eclipse we need to have JVM on your computer:
@@ -38,3 +38,4 @@ see plgin : https://dl-ssl.google.com/android/eclipse/
   Now we are on Development mode.
 
 6. From Eclipse Menu: Run:Run Configuration..:Target:Launch on all compatible devices/AVD's: and select: Active devices and AVD's, then apply and run.
+  Have Error: CPU acceleration status: HAX kernel module is not installed: used Eclipse and Android Studio
