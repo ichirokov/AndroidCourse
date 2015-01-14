@@ -39,3 +39,7 @@ see plgin : https://dl-ssl.google.com/android/eclipse/
 
 6. From Eclipse Menu: Run:Run Configuration..:Target:Launch on all compatible devices/AVD's: and select: Active devices and AVD's, then apply and run.
   Have Error: CPU acceleration status: HAX kernel module is not installed: used Eclipse and Android Studio
+
+Also if I run intelhaxm.exe for Eclipse or Android Studio(intelhaxm-android.exe)
+
+We have error message : c:\Documents and Settings\igor\..\Temp\\Intel\HAXM\1.1.1\2015-01-14_11-24-13\setup.exe is not valid win32 application. It looks not supported Windows HP 32-bit OS.
